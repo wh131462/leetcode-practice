@@ -61,7 +61,7 @@
     "@release-it/bumper": "^6.0.1",
     "@release-it/conventional-changelog": "^8.0.1",
     "@types/node": "^22.7.7",
-    "@vitest/coverage-v8": "^1.2.2",
+    "@vitest/coverage-v8": "^3.0.4",
     "commitizen": "^4.2.5",
     "cz-conventional-changelog": "^3.3.0",
     "esbuild": "^0.24.0",
