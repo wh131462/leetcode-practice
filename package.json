@@ -58,7 +58,7 @@
     "@antfu/eslint-config": "^3.8.0",
     "@commitlint/cli": "^19.1.0",
     "@commitlint/config-conventional": "^19.1.0",
-    "@release-it/bumper": "^6.0.1",
+    "@release-it/bumper": "^7.0.1",
     "@release-it/conventional-changelog": "^8.0.1",
     "@types/node": "^22.7.7",
     "@vitest/coverage-v8": "^1.2.2",
